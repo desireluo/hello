@@ -1,0 +1,20 @@
+{
+    "name": "desireluo/hello",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Desireluo\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rhett",
+            "email": "desireluo@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
